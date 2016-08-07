@@ -35,6 +35,6 @@ Requirement:
 - User running this script should be "ssadmin" (or change it appropriately)
 - Have a network drive of "//software" (or change it appropriately)
 - Need to have ISO files at appropriate directory's as show in below 
-![alt text](screenshots/pic1.png "software directory on network drive")
+![alt text](screenshots/screen1.png "software directory on network drive")
 - copy AutomaticIndexRebuildJob.sql, mon_user.sql, index_defrag.sql file to "\\software\SQLServer\AutomaticIndexRebuild"
 
